@@ -1,0 +1,4 @@
+be able to switch the board to black perspective
+transposition tables
+openings book
+menu to change colors
